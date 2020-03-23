@@ -13,5 +13,5 @@ public class AnonymousClass {
 }
 
 interface A {
-	public void print1();
+	void print1();
 }
